@@ -60,7 +60,7 @@ link:https://www.apache.org/dist/incubator/netbeans/incubating-netbeans/incubati
 
 Also see the following YouTube clip:
 
-link:https://www.youtube.com/watch?v=O8cwpEY1OAQ[The Rough Guide to Apache NetBeans 10]
+video::O8cwpEY1OAQ[youtube, title="The Rough Guide to Apache NetBeans 10"]
 
 ////
 NOTE: Using https below is highly recommended.
